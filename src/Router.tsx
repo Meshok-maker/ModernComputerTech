@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, MemoryRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/navbar/Navbar";
 import About from "./pages/About";
 import Home from "./pages/Home";
@@ -8,7 +8,7 @@ import Test from "./pages/Test";
 
 const Router = () => {
     return (
-        <MemoryRouter>
+        <HashRouter>
             <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} />
@@ -19,7 +19,7 @@ const Router = () => {
                 <Route path="/" element={<Market />} /> */}
 
             </Routes>
-        </MemoryRouter>
+        </HashRouter>
     )
 }
 
