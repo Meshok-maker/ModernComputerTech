@@ -62,11 +62,11 @@ export const SecondSidebar = (
             </ListItemIcon>
             <ListItemText primary="Задание 5" />
         </ListItemButton>
-        <ListItemButton component={Link} to="/task6">
+        <ListItemButton component={Link} to="/city">
             <ListItemIcon>
                 <TableChartIcon />
             </ListItemIcon>
-            <ListItemText primary="Задание 6" />
+            <ListItemText primary="Города и памятники" />
         </ListItemButton>
     </React.Fragment>
 );
