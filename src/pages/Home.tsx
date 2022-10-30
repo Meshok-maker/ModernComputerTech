@@ -43,10 +43,10 @@ const Home = () => {
                                         <ListItemText primary="Тест" />
                                     </ListItemButton>
                                     <ListItemButton divider component={Link} to="/">
-                                        <ListItemText primary="Неизветсно" />
+                                        <ListItemText primary="Обмен картинок" />
                                     </ListItemButton>
-                                    <ListItemButton divider component={Link} to="/">
-                                        <ListItemText primary="Неизветно" />
+                                    <ListItemButton divider component={Link} to="/city">
+                                        <ListItemText primary="Города и памятники" />
                                     </ListItemButton>
                                 </List>
 
