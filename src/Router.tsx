@@ -3,6 +3,7 @@ import { HashRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/navbar/Navbar";
 import About from "./pages/About";
 import Calculator from "./pages/Calculator";
+import ChangePictures from "./pages/ChangePictures";
 import CityMonuments from "./pages/CityMonuments";
 import Home from "./pages/Home";
 import Market from "./pages/Market";
@@ -21,6 +22,7 @@ const Router = () => {
                 <Route path="/city" element={<CityMonuments />} />
                 <Route path="/calculator" element={<Calculator />} />
                 <Route path="/market" element={<Market />} />
+                <Route path="/change" element={<ChangePictures />} />
 
             </Routes>
         </HashRouter>

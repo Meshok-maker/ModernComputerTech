@@ -35,7 +35,7 @@ const About = () => {
                                     Основная информация
                                 </Typography>
                                 <Typography variant="body1" gutterBottom>
-                                    Номер телефона: +8(800)-555-35-35
+                                    Номер телефона: +7(800)-555-35-35
                                 </Typography>
                                 <Typography variant="body1" gutterBottom>
                                     Электронная почта: Smth@mail.ru

@@ -42,7 +42,7 @@ const Home = () => {
                                     <ListItemButton divider component={Link} to="/test">
                                         <ListItemText primary="Тест" />
                                     </ListItemButton>
-                                    <ListItemButton divider component={Link} to="/">
+                                    <ListItemButton divider component={Link} to="/change">
                                         <ListItemText primary="Обмен картинок" />
                                     </ListItemButton>
                                     <ListItemButton divider component={Link} to="/city">
