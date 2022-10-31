@@ -2,7 +2,7 @@ import { Button, FormControl, Input, InputLabel } from "@mui/material";
 import React, { useState } from "react";
 
 const AllImages = ["https://adijuhpalace.ru/800/600/https/n1s1.elle.ru/e4/14/6b/e4146b309f701b7e040b31ca16f58157/1920x1200_0xc35dbb80_17119083041493282650.jpeg",
-    "http://albumarium.com/media/W1siZiIsIjU2NDcxYjc5NzY3MDczMzE3YzMxMTcwMCJdLFsicCIsInRodW1iIiwiMTkyMHgxOTIwXHUwMDNFIl1d?sha=933763c3",
+    "https://www.mushroomtravel.com/page/wp-content/uploads/2018/10/pixabay-the-eiffel-tower-4104637_1920.jpg",
     "https://russland-reisen.de/wp-content/uploads/2019/08/Premium-Reisen-Moskau-e1566306865487.jpg"];
 
 
