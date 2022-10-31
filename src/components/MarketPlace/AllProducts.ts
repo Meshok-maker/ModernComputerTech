@@ -14,7 +14,7 @@ const Products = [
         id: 1,
         category: "estate",
         description: "Одноместный кирпичный гараж с подогревом, отличная цена, из больших плюсов можно отметить то, что высота потолков составляет 3 метра",
-        image: "http://landshaftadvice.ru/wp-content/uploads/2017/11/Garazh-na-uchastke-75.jpg",
+        image: "https://a.d-cd.net/16d7839s-1920.jpg",
         price: 120000,
         title: "Кирпичный гараж",
         amount: 500
